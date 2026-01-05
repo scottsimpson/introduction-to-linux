@@ -13,7 +13,7 @@ See [Learning VirtualBox](https://www.linkedin.com/learning/learning-virtualbox-
 Find Linux courses on LinkedIn Learning at [lnkd.in/learnlinux](https://lnkd.in/learnlinux).
 
 Selected LinkedIn Learning resources for further learning:
-- [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-14447912)
+- [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-26594217)
 - [Ubuntu Linux: Essential Commands and System Administration](https://www.linkedin.com/learning/ubuntu-linux-essential-commands-and-system-administration)
 - [Linux Bash Shell and Scripts](https://www.linkedin.com/learning/linux-bash-shell-and-scripts)
 - [Learning Bash Scripting](https://www.linkedin.com/learning/learning-bash-scripting-26210777)
